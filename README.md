@@ -25,28 +25,17 @@ A simple and interactive travel planner app where users can input their destinat
 
 To get started, clone the repository:
 
-```bash
 git clone https://github.com/yourusername/travel-app.git
 cd travel-app
 Then, install the dependencies:
 
-bash
-
-
 npm install
 Usage 🚀
 After installing the dependencies, you can start the app by running:
-
-bash
-
-
 npm run start
 This will start the app in development mode and open it in your default web browser.
 
 Build for Production ⚙️
 To build the app for production, use the following command:
-
-bash
-
 npm run build
 This will create a production-ready build in the dist/ folder.
