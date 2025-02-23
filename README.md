@@ -17,7 +17,7 @@ A simple and interactive travel planner app where users can input their destinat
 - **Pixabay API**: 🖼️ Fetches an image for the destination.
 
 ## Requirements 🛠️
-- **Node.js**: v18.17.0 
+- **Node.js**: v20.17.0 
 - **[Webpack]**(https://webpack.js.org/) - Module bundler for managing assets.
 - **[Workbox Webpack Plugin]**(https://developers.google.com/web/tools/workbox) - Used to generate a Service Worker for offline capabilities.
 
