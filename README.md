@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Travel App 🌍✈️
 
 A simple and interactive travel planner app where users can input their destination, departure date, and view the weather forecast along with a picture of the location. The app fetches data from various APIs including Geonames, Weatherbit, and Pixabay.
@@ -38,3 +39,6 @@ Build for Production ⚙️
 To build the app for production, use the following command:
 npm run build
 This will create a production-ready build in the dist/ folder.
+=======
+
+>>>>>>> bbf003223c0e28b4e2ee2687f4ae2221a8002c32
